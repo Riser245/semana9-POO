@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eje3_Guia8", "Eje3_Guia8.csproj", "{B8FEB9C0-470E-4E3F-99CB-0E14354368DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FEB9C0-470E-4E3F-99CB-0E14354368DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FEB9C0-470E-4E3F-99CB-0E14354368DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FEB9C0-470E-4E3F-99CB-0E14354368DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FEB9C0-470E-4E3F-99CB-0E14354368DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A29974E-64DB-4628-BD75-3812BDB73907}
+	EndGlobalSection
+EndGlobal

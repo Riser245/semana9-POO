@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\bin\Debug\Eje3_Guia8.exe.config
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\bin\Debug\Eje3_Guia8.exe
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\bin\Debug\Eje3_Guia8.pdb
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.Form1.resources
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.Properties.Resources.resources
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.exe
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Eje3_Guia8\obj\Debug\Eje3_Guia8.pdb
