@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\bin\Debug\Ejemplo1_Guia 8.exe.config
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\bin\Debug\Ejemplo1_Guia 8.exe
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\bin\Debug\Ejemplo1_Guia 8.pdb
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia_8.Form1.resources
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia_8.Properties.Resources.resources
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.exe
+C:\Users\usuario\Desktop\SEMANA 7\semana 9\Ejemplo1_Guia 8\obj\Debug\Ejemplo1_Guia 8.pdb
